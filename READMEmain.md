@@ -40,16 +40,24 @@ The tool calculates several key financial metrics from the dataset:
 After setting up the project, the running of the analysis can be done by executing the JavaScript file. The tool will process the dataset and output the calculated metrics in the browser's console or a specified output format.
 
 # Expected Output
+
 When you run the code in a browser, the resulting analysis should display the following: 
+
 * Total number of months. 
+
 * The net total amount of Profit/Losses. 
+
 * The average change in Profit/Losses. 
-* The dates and differences for the greatest increase and decrease in Profit/Losses. The output should be formatted clearly and concisely, making it easy for users to understand the financial insights derived from the dataset.
+
+* The dates and differences for the greatest increase and decrease in Profit/Losses.
+
+* The output should be formatted clearly and concisely, making it easy for users to understand the financial insights derived from the dataset.
 
 # Contributing
+
 Contributions are welcome! If you have suggestions for improvements or additional features, please feel free to submit a pull request or open an issue.
 
 # License
-This project is licensed under the MIT License. See the LICENSE file for details.
 
+This project is licensed under the MIT License. See the LICENSE file for details.
 This README provides a clear and concise guide to using your financial record analysis tool, making it easy for users to understand the project's purpose, how to set it up, and what to expect from the analysis.
