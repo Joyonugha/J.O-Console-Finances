@@ -1,5 +1,5 @@
 # Financial Record Analysis Tool
-This repository contains a JavaScript tool designed to analyze financial records, specifically focusing on Profit/Losses over a given period. The analysis is based on a dataset composed of arrays with two fields: Date and Profit/Losses.
+This repository contains a JavaScript tool designed to analyze financial records, specifically focusing on Profit/Losses over a given period. The analysis is based on a dataset composed of arrays with two fields: Date and Profit/Losses. This README also provides a clear and concise guide to using your financial record analysis tool, making it easy for users to understand the project's purpose, how to set it up, and what to expect from the analysis.
 
 # Project Overview
 The tool calculates several key financial metrics from the dataset:
@@ -60,4 +60,3 @@ Contributions are welcome! If you have suggestions for improvements or additiona
 # License
 
 This project is licensed under the MIT License. See the LICENSE file for details.
-This README provides a clear and concise guide to using your financial record analysis tool, making it easy for users to understand the project's purpose, how to set it up, and what to expect from the analysis.
